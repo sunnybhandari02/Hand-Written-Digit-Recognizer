@@ -1,4 +1,4 @@
-# Data-Science-Internship-Project
+# Hand-Written-Digit-Recognizer
 Identify digits from an image
 
 Identify your Digit Dataset :-
