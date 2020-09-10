@@ -9,5 +9,3 @@ and test that technique. It’s a digit recognition problem. This data set has
 28 X 28 size, totalling 31MB.
 
 Problem :- Identify digits from an image
-
-https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-digits/)
